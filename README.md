@@ -1,0 +1,3 @@
+# desafios TypeScript DIO
+
+Esse repositório foi criado para cumprir o desafio proposto no bootcamp de FullStack da Impulso. Nele está alguns dos desafios apresetados pelo Desenvolvedor João...
